@@ -1,13 +1,27 @@
 h1{
     color: steelblue;
 
+    text-align: center;
+
     font-family: Arial, Helvetica, sans-serif;
 }
 p{
     color: blue;
 
+    text-align: center;
+
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: lightgrey;
+    background-color: black;
+}
+img {
+    display: block;
+
+    margin: auto;
+}
+a{
+    text-align: center;
+
+    display: block;
 }
