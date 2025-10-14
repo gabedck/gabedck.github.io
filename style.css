@@ -49,6 +49,6 @@ a{
     text-decoration: none;
 }
 
-#Home, #Projects #Contact {
+.main {
     margin-top: 30px;
 }
