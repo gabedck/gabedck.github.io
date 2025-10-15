@@ -1,11 +1,11 @@
 h1{
-    color: steelblue;
+    color: rgb(76, 125, 165);
 
     text-align: center;
 
     font-family: Arial, Helvetica, sans-serif;
 
-    font-size: 32px;
+    font-size: 42px;
 }
 p{
     color: lightblue;
@@ -51,6 +51,8 @@ a{
     padding: 14px 16px;
 
     text-decoration: none;
+
+    font-size: 16px;
 }
 
 .main {
