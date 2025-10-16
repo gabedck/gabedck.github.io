@@ -34,7 +34,7 @@ a{
 
     background-color: #cdc1c1;
 
-    position: fixed;
+    position: right;
 
     top: 0;
 
@@ -50,7 +50,7 @@ ul {
 
     overflow: hidden;
 
-    background-color: #333333;
+    float: right;
 }
 
 .navbar a {
