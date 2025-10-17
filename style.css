@@ -36,11 +36,13 @@ a{
 
     position: fixed;
 
-    float: right;
-
     top: 0;
 
     width: 100%
+}
+
+.topnav-right {
+  float: right;
 }
 
 ul {
