@@ -98,14 +98,6 @@ ul {
     margin-top: 50px;
 }
 
-#Home{
+#Home, #Projects, #Contact{
     background-color: rgb(29, 29, 29);
-}
-
-#Projects{
-    background-color: rgb(22, 22, 22);
-}
-
-#Contact{
-    background-color: black;
 }
