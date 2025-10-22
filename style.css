@@ -1,3 +1,9 @@
+html, body{
+    overflow-x: hidden;
+
+    width: 100%
+}
+
 h1{
     color: rgb(76, 125, 165);
 
