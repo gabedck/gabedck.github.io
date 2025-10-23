@@ -111,3 +111,13 @@ ul {
 #Home, #Projects, #Contact{
     background-color: rgb(29, 29, 29);
 }
+
+#Home, #Projects{ 
+    width: 100vw;
+
+    height: 100vh;
+}
+
+#Home div{
+    margin-top: 5%;
+}
