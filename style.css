@@ -45,8 +45,8 @@ img {
 }
 
 a{
-    text-align: center;
-
+    text-align: left;
+    
     display: block;
 }
 
@@ -60,6 +60,10 @@ a{
     top: 0;
 
     width: 100%
+}
+
+.centered {
+    text-align: center;
 }
 
 .navbar h1{
