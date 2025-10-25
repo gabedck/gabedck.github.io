@@ -41,7 +41,7 @@ p{
 }
 
 body{
-    background-color: black;
+    background-color: rgb(29, 29, 29);
 }
 
 img {
@@ -126,4 +126,8 @@ ul {
 
 #Home div{
     margin-top: 5%;
+}
+
+#Contact{
+    margin-top: 150px;
 }
