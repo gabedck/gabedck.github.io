@@ -121,7 +121,7 @@ ul {
 }
 
 #Home, #Projects{ 
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #Home div{
