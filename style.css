@@ -50,8 +50,8 @@ img {
     margin: auto;
 }
 
-a{
-    text-align: left;
+#Contact a{
+    text-align: center;
     
     display: block;
 }
