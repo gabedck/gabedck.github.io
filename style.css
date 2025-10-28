@@ -15,7 +15,7 @@ h1{
 }
 
 h2{
-    color:aqua;
+    color: lightblue;
 
     text-align: center;
 
@@ -27,7 +27,7 @@ h2{
 }
 
 p{
-    color: lightblue;
+    color: whitesmoke;
 
     text-align: left;
 
@@ -41,7 +41,7 @@ p{
 }
 
 body{
-    background-color: rgb(29, 29, 29);
+    background-color: black;
 }
 
 img {
@@ -115,7 +115,7 @@ ul {
 }
 
 #Home, #Projects, #Contact{
-    background-color: rgb(29, 29, 29);
+    background-color: black;
 
     width: 100%;
 }
