@@ -28,6 +28,12 @@ h2{
     padding-top: 30px;
 }
 
+.gridPhoto{
+    border: 5px solid black;
+
+    border-radius: 20px;
+}
+
 p{
     color: black;
 
