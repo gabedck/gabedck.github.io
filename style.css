@@ -42,12 +42,12 @@ p{
     padding-right: 15px;
 }
 
-p.padding-Top{
+.padding-Top{
     padding-top: 50px;
 }
 
 .padding-Bottom{
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 }
 
 body{
