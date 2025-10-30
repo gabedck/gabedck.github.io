@@ -29,7 +29,7 @@ h2{
 }
 
 p{
-    color: whitesmoke;
+    color: black;
 
     text-align: left;
 
@@ -121,7 +121,7 @@ ul {
 }
 
 #Home, #Projects, #Contact{
-    background-color: black;
+    background-color: blanchedalmond;
 
     width: 100%;
 }
