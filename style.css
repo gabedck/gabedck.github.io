@@ -32,6 +32,10 @@ h2{
     border: 5px solid black;
 
     border-radius: 20px;
+
+    max-width: 500px;
+
+    max-height: 285px;
 }
 
 p{
@@ -159,5 +163,11 @@ ul {
     font-size: 16px;
 
     padding: 0 10px;
+  }
+
+  .gridPhoto{
+    max-width: 100%;
+
+    max-height: auto;
   }
 }
